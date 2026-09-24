@@ -1,0 +1,9 @@
+File	Role
+data_derived/TCGA_tumor_only_final_survival.csv	Final 33-case TCGA analysis table
+data_derived/TCGA_tumor_only_survival_recalc_33.csv	Independent 33-case audit/recalculation table
+data_derived/GSE89749_OXPHOS_validation.csv	Final 115-case GSE89749 score/survival table
+audit_outputs/GSE89749_OXPHOS_mapping_audit.csv	200-gene mapping audit
+audit_outputs/GSE89749_recalculation_sensitivity.csv	Seven preprocessing sensitivity variants
+audit_outputs/GSE89749_recalculated_scores.csv	Saved recalculated scores from preprocessing audit
+audit_outputs/GSE89749_OXPHOS_fluke_sensitivity.csv	Saved fluke subgroup estimates
+audit_outputs/OXPHOS_final_statistical_results.csv	Final manuscript statistical results
