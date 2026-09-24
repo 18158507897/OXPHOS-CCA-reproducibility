@@ -1,0 +1,6 @@
+Cohort,Analysis,N,Deaths,HR,CI_low,CI_high,P
+TCGA-CHOL tumor-only,Continuous OXPHOS per SD,33,18,1.1681,0.7475,1.8254,0.4951
+TCGA-CHOL tumor-only,High vs low (median),33,18,1.1252,0.4268,2.9663,0.8115
+TCGA-CHOL tumor-only,Adjusted OXPHOS per SD,33,18,1.6429,0.9062,2.9785,0.1019
+GSE89749,Continuous OXPHOS per SD,115,64,0.7533,0.5986,0.9479,0.01566
+GSE89749,High vs low (median),115,64,0.518,0.3118,0.8607,0.0097
